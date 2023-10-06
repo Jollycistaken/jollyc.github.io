@@ -1,24 +1,10 @@
-name: Jolly Blog
+title: Jolly Blog
 description: >-
   Student Reverse Engineer and Malware Analyst
   
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: Jollycistaken
-  instagram:
-  linkedin:
-  pinterest:
-  rss: 
-  twitter: Jollycistaken
-  stackoverflow: 
-  youtube: 
-  googleplus:
+github: Jollycistaken
+twitter: Jollycistaken
 
-disqus:
-google_analytics:
 url:
 baseurl: ""
 permalink: /:title/

@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Contact me
 
-[@{{ site.footer-links.github }}](https://github.com/{{site.footer-links.github}})
+[@{{ site.github }}](https://github.com/{{ site.github }})
