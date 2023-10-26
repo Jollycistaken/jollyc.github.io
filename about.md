@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About me
 
-{{ site.description }}
+{{ site.about }}
 
 ### Contact me
 
